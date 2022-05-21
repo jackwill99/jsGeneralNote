@@ -1,4 +1,4 @@
-## With Async-Await
+## With normal
 
 ```js
 function makeGetRequest(path) {
